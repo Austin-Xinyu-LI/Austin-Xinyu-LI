@@ -1,4 +1,4 @@
-![](./images/占位/banner.jpg)
+![](./images/banner.jpg)
 
 <div align="center">
 
