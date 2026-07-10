@@ -42,7 +42,7 @@ I’ve also done internships in finance (both of primary and secondary markets),
 
 - *Bachelor of Dual Degree in Economics and Law, Major in Finance and Law | 经济学与法学双学士，法学与金融学专业*
 - *Honored Bachelor of Science, Minored in Mathematics | 数学荣誉学士，数学与应用数学专业*
-- *Minored in Computer Science | 辅修计算机科学与技术专业*
+- *Minor in Computer Science | 辅修计算机科学与技术专业*
 - **GPA | 绩点:** 4.1/5.0
 - **Honors | 荣誉奖项：** National Scholarship国家奖学金, Honored Graduate优秀毕业生
 <!--
