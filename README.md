@@ -1,4 +1,5 @@
-![](./images/banner.png)
+![](./images/占位/banner.jpg)
+
 <div align="center">
 
 # 👋 Hi, I'm Austin | 你好，我是李欣雨
