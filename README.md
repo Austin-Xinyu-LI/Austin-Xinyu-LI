@@ -27,7 +27,7 @@ I’ve also done internships in finance (both of primary and secondary markets),
 - 🔭 Currently working on: VC internship of AI industry | 目前在做：AI赛道的VC小登
 - 🌱 Currently learning: Vibe Coding | 正在学习：Claude/GPT肝代码
 - 💬 Ask me about: Startup finance or anything related to AI | 可以和我聊：初创融资/任何和AI有关的事儿
-- 📫 Reach me at LinkedIn or email | 联系方式：最上方领英/邮件
+- 📫 Reach me at: LinkedIn or email | 联系方式：最上方领英/邮件
 
 ---
 
@@ -45,12 +45,12 @@ I’ve also done internships in finance (both of primary and secondary markets),
 - *Minor in Computer Science | 辅修计算机科学与技术专业*
 - **GPA | 绩点:** 4.1/5.0
 - **Honors | 荣誉奖项：** National Scholarship国家奖学金, Honored Graduate优秀毕业生
-<!--
+
 ---
 
 ## 💼 Internship and Program | 实习与项目经历
 
-> *This is the section I care most about — a record of where I've been and what I've built.*
+> *This is one of the sections I care most about — a record of where I've been and what I've built.*
 > *这是我最看重的部分，记录我走过的地方和做过的事。*
 
 ### 🏢 [Company Name] | [公司名称]
@@ -116,5 +116,4 @@ I’ve also done internships in finance (both of primary and secondary markets),
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 *Thanks for visiting! | 感谢访问！*
--->
 </div>
