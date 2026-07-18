@@ -50,39 +50,32 @@ I’ve also done internships in finance (both of primary and secondary markets),
 
 ## 💼 Internship and Program | 实习与项目经历
 
-> *This is one of the sections I care most about — a record of where I've been and what I've built.*
-> *这是我最看重的部分，记录我走过的地方和做过的事。*
+> *Impossibly massy internship path*
+> *非常杂乱之不垂直的实习路径*
 
-### 🏢 [Company Name] | [公司名称]
-**[Position Title] | [职位名称]** · 📍 [City] · 📅 [Month Year] – [Month Year]
+### 🏢 Edge Ventures | 青锐创投
+**Investment Assistant | 投资助理** · 📍 Shanghai上海 · 📅 2026.5 – Present
 
-**EN:**
-- [Achievement 1: what you did + measurable outcome, e.g., "Conducted market mapping of 40+ AI startups across 6 verticals, producing an internal investment landscape report"]
-- [Achievement 2]
-- [Achievement 3]
+### 🏢 Winsoul Capital | 云岫资本
+**Industry Research Assistant | 行业研究助理** · 📍 Shanghai上海 · 📅 2026.1 – 2026.5
 
-**中文：**
-- [成果 1：做了什么 + 可量化的结果，例如：完成 6 个赛道 40 余家 AI 初创公司的市场地图梳理，产出内部投资图谱报告]
-- [成果 2]
-- [成果 3]
+### 🏢 Probe Capital | 探针资本
+**Industry Research Assistant | 行业研究助理** · 📍 Shanghai上海 · 📅 2025.8 – 2026.1
 
-### 🏢 [Company Name 2] | [公司名称 2]
-**[Position Title] | [职位名称]** · 📍 [City] · 📅 [Month Year] – [Month Year]
+### 🏢 Boston Consulting Group | 波士顿咨询
+**Part-time Consulting Assistant | PTA实习生** · 📍 Shanghai上海 · 📅 2025.4 – 2025.8
 
-**EN:**
-- [Achievement 1]
-- [Achievement 2]
+### 🏢 Industrial Securities | 兴业证券
+**Underwriting Assistant | 债券承做助理** · 📍 Chengdu成都 · 📅 2025.1 – 2025.4
 
-**中文：**
-- [成果 1]
-- [成果 2]
+### 🏢 Sinowise Investment | 中睿合银
+**Investment Research Assistant | 投资研究助理** · 📍 Chengdu成都 · 📅 2024.11 – 2025.1
 
-### 🌏 [Program Name, e.g., Exchange / Fellowship / Competition] | [项目名称]
-**[Role] | [角色]** · 📅 [Month Year] – [Month Year]
+### 🏢 Tianyuan Law Firm | 天元律所
+**Partner Paralegal | 合伙律师助理** · 📍 Shengdu成都 · 📅 2024.7 – 2024.11
 
-**EN:** [One or two sentences describing the program and your contribution.]
-
-**中文：** [一到两句话描述该项目及你的贡献。]
+### 🏢 Changjiang Securities | 长江证券
+**Industry Research Associate | 行业研究助理** · 📍 Shanghai上海 · 📅 2024.2 – 2024.7
 
 ---
 
